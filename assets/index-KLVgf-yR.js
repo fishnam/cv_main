@@ -10,7 +10,7 @@
         </li> 
         <li>
           <a href="#" id="info-btn">
-            🧊 Information
+            📖 Information
           </a>
         </li>
       </ul>
@@ -18,7 +18,7 @@
 
 
     <section id="main">
-      <p>Hi there, this is Nam. I am a currently a student at RMIT Hanoi. Click [📝Information]↗ for my CV.</p>
+      <p>Hi there, this is Nam. I am a currently a student at RMIT Hanoi. Click [📖 Information]↗ for my CV.</p>
       <br>
       <h3>Contact Info</h3>
       <p>email: nguyenthanhhainam2007@gmail.com</p>
