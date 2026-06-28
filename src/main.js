@@ -90,7 +90,7 @@ document.querySelector('#app').innerHTML = `
         
         <li>
           <div class = "drop-btn">
-            <p>RoboroarZ Senior Category, Innovation award</p>
+            <p>RoboroarZ Senior Category - Innovation award</p>
             <p>2024</p>
           </div>
           <ul class = "drop-cont">
