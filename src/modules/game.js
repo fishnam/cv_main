@@ -171,9 +171,9 @@ export class Game {
     } else if (input === "f"){
       this.placeRepeatedPattern(FISH);
     } else if (input === "2"){
-      this.refresh = Math.max(0, this.refresh - 100);
+      this.refresh = Math.max(10, this.refresh / 2);
     } else if (input === "1"){
-      this.refresh = Math.min(1000, this.refresh + 100);
+      this.refresh = Math.min(1000, this.refresh * 2);
     }
   }
 }
