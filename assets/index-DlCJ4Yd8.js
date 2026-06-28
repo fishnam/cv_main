@@ -25,7 +25,10 @@
       <p>tel: +85 915321058</p>
       <br><br>
       <h3>Conway's Game of Life</h3>
-      <p>[C] to clear canvas, [P] to pause, [R] to generate random pattern.</p>
+      <p>Click to toggle tiles</p>
+      <p>[C] to clear canvas</p>
+      <p>[P] to pause</p>
+      <p>[R] to generate random pattern</p>
     </section>
 
     <section id="info">
